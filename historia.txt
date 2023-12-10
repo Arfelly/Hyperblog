@@ -8,3 +8,5 @@ Pronto seguiremos con la historia
 
 Es muy interesante que después de tantos años al final me arriesgue por la programación
 
+vamos a realizar una pruebas para usar git y github
+
